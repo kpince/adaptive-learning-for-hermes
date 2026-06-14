@@ -1,4 +1,6 @@
-# Adaptive Loop Scaffold
+# Adaptive Learning for Hermes
+
+A framework for adaptive learning for Hermes and other agentic systems. Highly experimental.
 
 A small fixed-substrate adaptation scaffold for Hermes-style agents.
 
