@@ -1,0 +1,17 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local/private runtime data
+*.log
+.DS_Store
+
+# Keep empty example ledgers tracked, but users should not commit real private ledgers.
+# If desired, move live ledgers outside the repository or add local excludes:
+# adaptations.jsonl
+# outcomes.jsonl
